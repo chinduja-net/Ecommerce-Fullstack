@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "JumpSuit",
+      "price": 499,
+      "image": "images/GIRL.png"
+    },
+    {
+      "id": 2,
+      "name": "Dress",
+      "price": 1000,
+      "image": "images/mariabeatrice-alonzi-VyI0GBHSsJ8-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Top",
+      "price": 1000,
+      "image": "images/blank-1886001_640.png"
+    },
+    {
+      "id": 4,
+      "name": "Running shoes",
+      "price": 1299,
+      "image": "images/joel-muniz-bS_1xFUPgWU-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "casual shoes",
+      "price": 1400,
+      "image": "images/nikita-kachanovsky-ad_0wMHtvlU-unsplash.jpg.png"
+    },
+    {
+      "id": 6,
+      "name": "sneakers",
+      "price": 1500,
+      "image": "images/ox-street-eYGduu6ROcw-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "name": "chair",
+      "price": 1900,
+      "image": "images/sam-moqadam-kvmdsTrGOBM-unsplash.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Black chair",
+      "price": 2900,
+      "image": "images/pexels-hormel-2762247.jpg"
+      
+    },
+    {
+      "id": 9,
+      "name": "Dining Chair",
+      "price": 4000,
+      "image": "images/suchit-poojari-ljRiZl00n18-unsplash.jpg"
+    }
+    
+  ]
+}
